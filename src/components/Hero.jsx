@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section className=" relative   py-20  ">
       <div className=" container-wrapper  ">
-        <div className=" flex justify-between  ">
+        <div className=" flex flex-col sm:flex-row justify-between  ">
           <div className=" w-full sm:w-1/2  ml-8 relative" data-aos="fade-right" data-aos-duration="1500">
             <h2 className=" text-[#f4dc75] text-4xl font-bold font-dream">
               Welcome To
