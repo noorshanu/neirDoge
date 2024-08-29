@@ -5,7 +5,7 @@ function Hero() {
     <section className=" relative   py-20  ">
       <div className=" container-wrapper  ">
         <div className=" flex justify-between  ">
-          <div className=" w-full sm:w-1/2  ml-8 relative">
+          <div className=" w-full sm:w-1/2  ml-8 relative" data-aos="fade-right" data-aos-duration="1500">
             <h2 className=" text-[#f4dc75] text-4xl font-bold font-dream">
               Welcome To
             </h2>
@@ -44,7 +44,7 @@ function Hero() {
             </div>
           </div>
 
-          <div className=" w-full sm:w-1/2">
+          <div className=" w-full sm:w-1/2" data-aos="fade-left" data-aos-duration="1500">
             <img src="images/about.png" alt="" className=" mx-auto h-auto " />
           </div>
         </div>
