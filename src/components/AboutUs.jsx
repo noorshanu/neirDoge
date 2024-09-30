@@ -31,11 +31,7 @@ function AboutUs() {
                   The Heartbeat of Solana's Meme Community
                 </h1>
                 <p className=" mx-auto text-center px-2 text-base font-medium  text-black">
-                Black Neiro is the wildest meme coin ride, starring a thug,
-              fun-loving Doge and its unstoppable DogeKnight army. Swagger,
-              street smarts, and big laughs—this meme all about living large,
-              breaking rules, and making gains. Buckle up, ‘cause Black Neiro’s
-              here to own the solana meme world!
+                Black Neiro is a doge meme designed to ignite the Solana ecosystem. Featuring a thug-life Doge mascot, this token represents bold moves, street smarts, and viral energy. Black Neiro powers a growing community of traders, holders, and meme enthusiasts who are here for the laughs and the 1000x pump!
                 </p>
               </div>
             </div>
