@@ -22,7 +22,7 @@ function AboutUs() {
             <div className=" w-full sm:w-1/2 ">
               <div className="bg-[#f4dc75] border-4 box-s2 rounded-2xl border-black py-2 max-w-sm mx-auto px-2 -rotate-3">
                 <h1 className="text-center font-bold text-4xl">
-                  About FLIRTY DOGE
+                 Black Neiro: Where thug life meets crypto hype!
                 </h1>
               </div>
 
@@ -31,11 +31,11 @@ function AboutUs() {
                   The Heartbeat of Solana's Meme Community
                 </h1>
                 <p className=" mx-auto text-center px-2 text-base font-medium  text-black">
-                  FLIRTY, the spoiled and wealthy cousin of Doge, is always at
-                  the center of attention with his extravagant lifestyle and
-                  love for stirring up trouble. When he's not causing a scene,
-                  he's charming the ladies with his flirtatious nature, adding a
-                  playful twist to his bold adventures.
+                Black Neiro is the wildest meme coin ride, starring a thug,
+              fun-loving Doge and its unstoppable DogeKnight army. Swagger,
+              street smarts, and big laughs—this meme all about living large,
+              breaking rules, and making gains. Buckle up, ‘cause Black Neiro’s
+              here to own the solana meme world!
                 </p>
               </div>
             </div>
