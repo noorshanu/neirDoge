@@ -16,11 +16,7 @@ function Hero() {
             </h1>
 
             <p className=" text-white text-lg pr-5">
-              FLIRTY, the spoiled and wealthy cousin of Doge, is always at the
-              center of attention with his extravagant lifestyle and love for
-              stirring up trouble. When he's not causing a scene, he's charming
-              the ladies with his flirtatious nature, adding a playful twist to
-              his bold adventures.
+            Black Neiro is the wildest meme coin ride, starring a thug, fun-loving Doge and its unstoppable DogeKnight army. Swagger, street smarts, and big laughs—this meme all about living large, breaking rules, and making gains. Buckle up, ‘cause Black Neiro’s here to own the solana meme world!
             </p>
             <div className="bg-[#f4dc75] text-[14px] z-30 w-full -rotate-3 rounded-full border-4 px-5 py-[5px] border-black font-semibold">
              Coming soon
