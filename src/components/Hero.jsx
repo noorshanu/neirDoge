@@ -9,10 +9,10 @@ function Hero() {
             <h2 className=" text-[#f4dc75] text-4xl font-bold font-dream">
               Welcome To
             </h2>
-                <img src="images/rose.png" alt="" className=" h-[120px] top-0 left-52 w-auto absolute" />
+       
             <h1 className=" txt-s text-[100px] font-bold text-[#f4dc75] font-little stroke-black  ">
               {" "}
-              Flirty Doge
+              Black Neiro 
             </h1>
 
             <p className=" text-white text-lg pr-5">
@@ -31,7 +31,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/BQh9tCLYGZp5gFVEBiEY85EfepbsVZfbTr1mSk53HEp4?t=1720532988176"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/"
                 className="  font-dream box-s2   text-xl text-black bg-[#ffffff] hover:bg-[#f4dc75] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
               >
                 {" "}
@@ -41,7 +41,7 @@ function Hero() {
           </div>
 
           <div className=" w-full sm:w-1/2" data-aos="fade-left" data-aos-duration="1500">
-            <img src="images/about.png" alt="" className=" mx-auto h-auto " />
+            <img src="images/tax.png" alt="" className=" mx-auto h-auto " />
           </div>
         </div>
       </div>
