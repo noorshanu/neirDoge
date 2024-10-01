@@ -33,7 +33,7 @@ function TokenInfo() {
             <ul className="flex flex-col space-y-4">
               <li className="bg-[#f4dc75] flex-col lg:flex-row justify-between space-x-2 items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">CA</p>
-                <p className="text-[9px] lg:text-[14px]">FpFT66nyCyvwU6mWkiLhPNMoFGRdRM73mKsY56v7drHH</p>
+                <p className="text-[9px] lg:text-[14px]">F</p>
               </li>
               <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">Initial Supply</p>
