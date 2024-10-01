@@ -39,7 +39,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/"
+                href="https://x.com/BlackNeiroSol"
                 className="  font-dream box-s2   text-xl text-black bg-[#ffffff] hover:bg-[#f4dc75] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
               >
                 {" "}

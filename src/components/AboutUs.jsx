@@ -21,8 +21,11 @@ function AboutUs() {
 
             <div className=" w-full sm:w-1/2 ">
               <div className="bg-[#f4dc75] border-4 box-s2 rounded-2xl border-black py-2 max-w-sm mx-auto px-2 -rotate-3">
-                <h1 className="text-center font-bold text-4xl">
-                 Black Neiro: Where thug life meets crypto hype!
+                <h1 className="text-center font-bold text-xl">
+                The first 5 holders to make it to the top win 1 million BNEIRO tokens each. 
+<br />
+
+Can you Make it to the TOP!
                 </h1>
               </div>
 

@@ -13,7 +13,7 @@ function TokenInfo() {
             <ul className="flex flex-col space-y-4">
               <li className="bg-[#f4dc75] justify-between space-x-10 items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">Token Name</p>
-                <p className="text-[24px]">$NEIROS</p>
+                <p className="text-[24px]">$BNEIRO</p>
               </li>
               <li className="bg-[#f4dc75] justify-between items-center p-2 rounded-[20px] border-2 px-5 border-black flex">
                 <p className="font-bold text-[36px]">NETWORK</p>

@@ -44,7 +44,7 @@ function HowToBuy() {
               href="/"
               className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-little"
             >
-              Buy $DBurn
+              Buy $BNEIRO
             </a>
           </div>
 
