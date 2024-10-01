@@ -26,12 +26,12 @@ function Hero() {
               breaking rules, and making gains. Buckle up, ‘cause Black Neiro’s
               here to own the solana meme world!
             </p>
-            <div className="bg-[#f4dc75] text-[14px] z-30 w-full -rotate-3 rounded-full border-4 px-5 py-[5px] border-black font-semibold">
-              Coming soon
+            <div  className="bg-[#f4dc75] text-[14px] z-30 w-full -rotate-3 rounded-full border-4 px-5 py-[5px] border-black font-semibold">
+            4LctgSrwXMBt2uSmb669i4yYyEJsgrFTqyBZBjgav9Cf
             </div>
             <div className=" mt-4 flex gap-2 items-start justify-start">
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/87WnWxCNUCN8nrTGw6ichQNcZ4XFQCwvRwgXeJS1D5VD?t=1727796935725"
                 className="  font-dream box-s2   text-xl text-black bg-[#ffffff] hover:bg-[#f4dc75] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
               >
                 {" "}
